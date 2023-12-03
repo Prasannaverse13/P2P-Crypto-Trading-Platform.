@@ -2,10 +2,9 @@
 
 PRs welcome! The CSS is pretty hacky, I depend on a component library called packard-belle & inline a bunch of stuff when I should really be writing these styles myself, there's `<div><div><div></div></div></div>`s everywhere, and it scales terribly on different screen sizes. <3 to anyone who contributes, PRs, bugs, and suggestions welcome! :)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Screenshot (419)](https://github.com/Prasannaverse13/P2P-Crypto-Trading-Platform./assets/116105281/a0483730-014e-4979-83ba-bd286b9fdc3c)
 
 ## Available Scripts
-
 In the project directory, you can run:
 
 ### `npm run start`
